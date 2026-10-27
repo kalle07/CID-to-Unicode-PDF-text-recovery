@@ -93,7 +93,7 @@ For reliable results:
 - Confirm that regular, italic, bold, and bold-italic entries point to the intended files.
 - If the low-score fallback is needed, ensure the configured `Calibri` / `regular` font (`calibri.ttf` by default) is available.
 
-**Font licensing:** installed fonts may have restrictions on copying, redistribution, or use. Check the applicable license before copying fonts to another machine or packaging them with this code. This project does not provide font files.
+**Font licensing:** installed fonts may have restrictions on copying, redistribution, or use. Check the applicable license before copying fonts to another machine or packaging them with this code.
 
 ## Output
 
